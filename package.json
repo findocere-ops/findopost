@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.88.0",
+    "dotenv": "^17.4.2",
+    "telegraf": "^4.16.3"
+  },
+  "devDependencies": {
+    "tsx": "^4.21.0"
+  }
+}
